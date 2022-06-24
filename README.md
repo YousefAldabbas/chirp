@@ -2,13 +2,13 @@
 ---
 ![alt text](./Design/Landing Page - Desktop View.png)
 
-####Technologies Index
+###Technologies Index
 - html
 - css
 - js
 
 ----
 
-####clone project
+###clone project
 
 `$ git clone https://github.com/YousefAldabbas/chirp.git`
